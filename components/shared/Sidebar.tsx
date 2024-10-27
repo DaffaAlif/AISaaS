@@ -17,8 +17,8 @@ const Sidebar = () => {
           <Image
             src="/assets/images/logo-text.svg"
             alt="logo"
-            width={180}
-            height={28}
+            width={300}
+            height={40}
           />
         </Link>
 
